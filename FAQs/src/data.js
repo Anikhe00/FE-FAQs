@@ -21,6 +21,12 @@ const faqData = [
       id: 4,
       question: "How can I get help if I'm stuck on a challenge?", 
       answer: "The best (and quickest) way to get help on a challenge is in our Discord server. There are thousands of other developers in there, so it's a great place to ask questions. We even have a dedicated help channel! If you haven't joined yet, you can get an invite to our Discord server here."
+    },
+
+    {
+      id: 5,
+      question: "Can I use libraries/frameworks on these projects?", 
+      answer: "Yes! Our challenges provide professional designs but there are no rules on what tools to use. So feel free to use anything you like to build your projects."
     }
 ]
 
